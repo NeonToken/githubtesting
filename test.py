@@ -20,5 +20,6 @@ cv.imshow("coool",pixels)
 cv.imshow("coool",pixels2)
 cv.waitKey(0)
 cv.destroyAllWindows()
+print("nigga")
 
 
